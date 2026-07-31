@@ -1,9 +1,9 @@
 %global tl_name sblarticle
-%global tl_revision 78599
+%global tl_revision 79743
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	1.0
+Version:	1.1
 Release:	%{tl_revision}.1
 Summary:	A LaTeX class for SBL style articles and papers
 Group:		Publishing
